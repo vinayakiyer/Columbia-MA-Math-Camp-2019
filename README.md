@@ -6,7 +6,7 @@ This repository hosts course material for Math Camp 2019 for the MA program at C
 - Instructor : Vinayak Iyer
 - Email : vi2137@columbia.edu
 - Dates : Monday, August 12th - Thursday, August 29th
-- Place and Time : 9:30 AM - 12 PM in Hamilton
+- Place and Time : 9:30 AM - 12 PM in Hamilton 717
 - Office Hours : Thursday 12 - 1 in IAB 1006A
 - Website : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019
 
