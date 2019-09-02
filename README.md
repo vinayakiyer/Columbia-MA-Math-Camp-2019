@@ -9,6 +9,7 @@ This repository hosts course material for Math Camp 2019 for the MA program at C
 - Place and Time : 9:30 AM - 12 PM in Hamilton 717
 - Office Hours : Thursday 12 - 1 in IAB 1006A
 - Website : https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019
+- Exam : MATH CAMP EXAM ON WEDNESDAY FROM 11:40 - 12:55
 
 ## Overview
 This course provides an overview of the mathematical concepts needed for the first year Master's sequence in
